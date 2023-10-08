@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "asagiv.ui.weather.console": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
